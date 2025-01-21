@@ -27,7 +27,7 @@ body {
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
-    background-color: #34035f;
+    background-color: #520694;
     border: 0;
     border-radius: 30px;
     cursor: pointer;
@@ -41,12 +41,12 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: #34035f;
+    color: #520694;
 }
 
 button:hover,
 form .btn-enviar input:hover {
-    box-shadow: 0px 0px 8px #34035f;
+    box-shadow: 0px 0px 8px #520694;
     transform: scale(1.05);
 }
 
@@ -127,7 +127,7 @@ header nav.menu-desktop ul li {
 }
 
 .menu-mobile .btn-fechar i{
-    color: #34035f;
+    color: #520694;
     font-size: 30px;
 }
 
@@ -144,7 +144,7 @@ header nav.menu-desktop ul li {
 }   
 
 .menu-mobile nav ul li a:hover{
-    background-color: #34035f;
+    background-color: #520694;
     color: #000;
 }
 
@@ -260,7 +260,7 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre h2 span {
-    color: #34035f;
+    color: #520694;
     display: block;
 }
 
@@ -275,7 +275,7 @@ section.sobre .flex {
     height: 60px;
     border-radius: 50%;
     border: none;
-    background-color: #34035f;
+    background-color: #520694;
     font-size: 22px;
     cursor: pointer;
     margin: 0 5px;
@@ -369,7 +369,7 @@ form .btn-enviar {
 
 form .btn-enviar input {
     width: 120px;
-    background-color: #34035f;
+    background-color: #520694;
     color: #000;
     font-weight: 700;
     cursor: pointer;
@@ -390,11 +390,11 @@ footer .line-footer {
 }
 
 .borda {
-    border-top: 2px solid #34035f;
+    border-top: 2px solid #520694;
 }
 
 footer .line-footer p i {
-    color: #34035f;
+    color: #520694;
     font-size: 22px;
 }
 
